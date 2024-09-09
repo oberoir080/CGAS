@@ -2,6 +2,9 @@ from spacy.matcher import Matcher
 from spacy.tokens import Span
 from spacy.language import Language
 from collections import defaultdict
+import matplotlib.pyplot as plt
+import seaborn as sns
+import numpy as np
 import pandas as pd
 import spacy
 import csv
