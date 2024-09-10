@@ -67,11 +67,11 @@ def process_recipes(recipe_text):
     return dict(ingredient_freq)
 
 
-def save_to_csv(ingredient_freq, filename):
-    with open(filename, 'w', newline='') as csvfile:
+def save_to_csv(data, filename):
+    with open(filename, 'w', newline='', encoding='utf-8') as csvfile:
         writer = csv.writer(csvfile)
-        writer.writerow(['Ingredient', 'Frequency'])
-        for ingredient, frequency in ingredient_freq.items():
+        writer.writerow(["Ingredient", "Frequency"])
+        for ingredient, frequency in data.items():
             writer.writerow([ingredient, frequency])
 
 
