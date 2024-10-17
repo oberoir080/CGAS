@@ -1,0 +1,21 @@
+support,itemsets,length
+0.32306611819002706,frozenset({'black pepper'}),1
+0.2304605197150597,frozenset({'purpose flour'}),1
+0.1843082171164844,frozenset({'salt'}),1
+0.12160128423798536,frozenset({'brown sugar'}),1
+0.11728704725594462,frozenset({'eggs'}),1
+0.1058493026989064,frozenset({'onion'}),1
+0.0919032808267282,frozenset({'cloves'}),1
+0.09120096317848901,frozenset({'white sugar'}),1
+0.09029798334503862,frozenset({'ground'}),1
+0.08197050265877395,frozenset({'garlic powder'}),1
+0.08156917828835156,frozenset({'powder'}),1
+0.08136851610314036,frozenset({'kosher salt'}),1
+0.07705427912109963,frozenset({'unsalted butter'}),1
+0.07675328584328284,frozenset({'package'}),1
+0.0721380555834253,frozenset({'large eggs'}),1
+0.07003110263870774,frozenset({'Parmesan cheese'}),1
+0.06371024380455503,frozenset({'Cheddar cheese'}),1
+0.05949633791511989,frozenset({'egg'}),1
+0.0592956757299087,frozenset({'inch'}),1
+0.05638607404434634,frozenset({'tomatoes'}),1

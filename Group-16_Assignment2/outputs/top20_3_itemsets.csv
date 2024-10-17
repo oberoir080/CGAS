@@ -1,0 +1,21 @@
+support,itemsets,length
+0.07494732617638206,"frozenset({'black pepper', 'salt', 'ground'})",3
+0.022674826928865254,"frozenset({'purpose flour', 'powder', 'eggs'})",3
+0.0195645630580917,"frozenset({'salt', 'cloves', 'black pepper'})",3
+0.018862245409852513,"frozenset({'salt', 'black pepper', 'onion'})",3
+0.016654961372529347,"frozenset({'powder', 'purpose flour', 'brown sugar'})",3
+0.015952643724290158,"frozenset({'powder', 'unsalted butter', 'purpose flour'})",3
+0.01575198153907896,"frozenset({'powder', 'white sugar', 'purpose flour'})",3
+0.014849001705628573,"frozenset({'purpose flour', 'salt', 'black pepper'})",3
+0.014748670613022976,"frozenset({'black pepper', 'ground', 'onion'})",3
+0.014046352964783786,"frozenset({'black pepper', 'cloves', 'ground'})",3
+0.01384569077957259,"frozenset({'powder', 'purpose flour', 'large eggs'})",3
+0.013544697501755795,"frozenset({'Parmesan cheese', 'salt', 'black pepper'})",3
+0.012842379853516606,"frozenset({'powder', 'egg', 'purpose flour'})",3
+0.012742048760911007,"frozenset({'purpose flour', 'ground', 'black pepper'})",3
+0.012742048760911007,"frozenset({'purpose flour', 'white sugar', 'eggs'})",3
+0.012641717668305408,"frozenset({'salt', 'ground', 'onion'})",3
+0.012441055483094212,"frozenset({'unsalted butter', 'purpose flour', 'brown sugar'})",3
+0.012441055483094212,"frozenset({'salt', 'cloves', 'ground'})",3
+0.011738737834855021,"frozenset({'unsalted butter', 'purpose flour', 'large eggs'})",3
+0.011437744557038226,"frozenset({'purpose flour', 'brown sugar', 'eggs'})",3
