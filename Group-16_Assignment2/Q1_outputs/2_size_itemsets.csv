@@ -1,0 +1,417 @@
+support,itemsets,length
+0.02688873281830039,"frozenset({'black pepper', 'Cheddar cheese'})",2
+0.006320858834152704,"frozenset({'cooking spray', 'Cheddar cheese'})",2
+0.006320858834152704,"frozenset({'Cheddar cheese', 'cream'})",2
+0.008327480686264674,"frozenset({'Cheddar cheese', 'eggs'})",2
+0.007123507574997492,"frozenset({'garlic powder', 'Cheddar cheese'})",2
+0.006019865556335909,"frozenset({'green onions', 'Cheddar cheese'})",2
+0.008227149593659075,"frozenset({'ground', 'Cheddar cheese'})",2
+0.005016554630279924,"frozenset({'Cheddar cheese', 'kosher salt'})",2
+0.005518210093307916,"frozenset({'Cheddar cheese', 'large eggs'})",2
+0.012742048760911007,"frozenset({'onion', 'Cheddar cheese'})",2
+0.012140062205277415,"frozenset({'Cheddar cheese', 'package'})",2
+0.012240393297883014,"frozenset({'Cheddar cheese', 'purpose flour'})",2
+0.014849001705628573,"frozenset({'salt', 'Cheddar cheese'})",2
+0.014347346242600582,"frozenset({'sour cream', 'Cheddar cheese'})",2
+0.00591953446373031,"frozenset({'Cheddar cheese', 'tomatoes'})",2
+0.014146684057389385,"frozenset({'black pepper', 'Dijon mustard'})",2
+0.007424500852814287,"frozenset({'salt', 'Dijon mustard'})",2
+0.007424500852814287,"frozenset({'Italian seasoning', 'Parmesan cheese'})",2
+0.00782582522323668,"frozenset({'Italian seasoning', 'black pepper'})",2
+0.005417879000702318,"frozenset({'Jack cheese', 'black pepper'})",2
+0.006722183204575098,"frozenset({'Parmesan cheese', 'basil'})",2
+0.034513895856325874,"frozenset({'black pepper', 'Parmesan cheese'})",2
+0.005518210093307916,"frozenset({'clove garlic', 'Parmesan cheese'})",2
+0.010133440353165445,"frozenset({'cloves', 'Parmesan cheese'})",2
+0.006521521019363901,"frozenset({'eggs', 'Parmesan cheese'})",2
+0.007023176482391893,"frozenset({'fresh basil', 'Parmesan cheese'})",2
+0.009330791612320657,"frozenset({'fresh parsley', 'Parmesan cheese'})",2
+0.007324169760208689,"frozenset({'garlic', 'Parmesan cheese'})",2
+0.009631784890137454,"frozenset({'garlic powder', 'Parmesan cheese'})",2
+0.010936089094010233,"frozenset({'ground', 'Parmesan cheese'})",2
+0.005116885722885522,"frozenset({'heavy cream', 'Parmesan cheese'})",2
+0.005618541185913515,"frozenset({'Parmesan cheese', 'kosher salt'})",2
+0.011036420186615832,"frozenset({'Parmesan cheese', 'mozzarella cheese'})",2
+0.009330791612320657,"frozenset({'onion', 'Parmesan cheese'})",2
+0.009531453797531855,"frozenset({'Parmesan cheese', 'package'})",2
+0.005518210093307916,"frozenset({'parsley', 'Parmesan cheese'})",2
+0.00591953446373031,"frozenset({'pepper', 'Parmesan cheese'})",2
+0.008026487408447879,"frozenset({'Parmesan cheese', 'purpose flour'})",2
+0.00591953446373031,"frozenset({'red pepper flakes', 'Parmesan cheese'})",2
+0.0198655563359085,"frozenset({'salt', 'Parmesan cheese'})",2
+0.007424500852814287,"frozenset({'tomatoes', 'Parmesan cheese'})",2
+0.008728805056687067,"frozenset({'black pepper', 'Worcestershire sauce'})",2
+0.005417879000702318,"frozenset({'almond extract', 'purpose flour'})",2
+0.010233771445771044,"frozenset({'balsamic vinegar', 'black pepper'})",2
+0.00722383866760309,"frozenset({'balsamic vinegar', 'salt'})",2
+0.01374535968696699,"frozenset({'black pepper', 'basil'})",2
+0.006019865556335909,"frozenset({'onion', 'basil'})",2
+0.006320858834152704,"frozenset({'salt', 'basil'})",2
+0.005718872278519113,"frozenset({'tomatoes', 'basil'})",2
+0.009531453797531855,"frozenset({'bay leaf', 'black pepper'})",2
+0.005016554630279924,"frozenset({'bay leaf', 'salt'})",2
+0.008126818501053476,"frozenset({'black pepper', 'bay leaves'})",2
+0.005317547908096719,"frozenset({'cloves', 'bay leaves'})",2
+0.01575198153907896,"frozenset({'bell pepper', 'black pepper'})",2
+0.005718872278519113,"frozenset({'cloves', 'bell pepper'})",2
+0.011337413464432627,"frozenset({'bell pepper', 'onion'})",2
+0.005116885722885522,"frozenset({'bell pepper', 'package'})",2
+0.008327480686264674,"frozenset({'bell pepper', 'salt'})",2
+0.007625163038025484,"frozenset({'bell pepper', 'tomatoes'})",2
+0.00591953446373031,"frozenset({'black pepper', 'bite'})",2
+0.006521521019363901,"frozenset({'size pieces', 'bite'})",2
+0.006220527741547106,"frozenset({'sized pieces', 'bite'})",2
+0.005116885722885522,"frozenset({'black pepper', 'black beans'})",2
+0.007324169760208689,"frozenset({'bone', 'black pepper'})",2
+0.01053476472358784,"frozenset({'black pepper', 'boneless chicken breast halves'})",2
+0.02026688070633089,"frozenset({'black pepper', 'brown sugar'})",2
+0.005819203371124712,"frozenset({'bunch', 'black pepper'})",2
+0.00923046051971506,"frozenset({'butter', 'black pepper'})",2
+0.006320858834152704,"frozenset({'black pepper', 'cans'})",2
+0.0066218521119695,"frozenset({'carrot', 'black pepper'})",2
+0.017256947928162937,"frozenset({'black pepper', 'carrots'})",2
+0.01705628574295174,"frozenset({'black pepper', 'cayenne pepper'})",2
+0.012541386575699809,"frozenset({'celery', 'black pepper'})",2
+0.006120196648941507,"frozenset({'chicken', 'black pepper'})",2
+0.005217216815491121,"frozenset({'black pepper', 'chunks'})",2
+0.02237383365104846,"frozenset({'black pepper', 'clove garlic'})",2
+0.052974816895756,"frozenset({'cloves', 'black pepper'})",2
+0.005718872278519113,"frozenset({'black pepper', 'cold water'})",2
+0.013544697501755795,"frozenset({'black pepper', 'cooking spray'})",2
+0.007123507574997492,"frozenset({'black pepper', 'cream'})",2
+0.005618541185913515,"frozenset({'black pepper', 'diced onion'})",2
+0.012441055483094212,"frozenset({'black pepper', 'egg'})",2
+0.02096919835457008,"frozenset({'black pepper', 'eggs'})",2
+0.010033109260559848,"frozenset({'black pepper', 'fresh basil'})",2
+0.00591953446373031,"frozenset({'black pepper', 'fresh chives'})",2
+0.010233771445771044,"frozenset({'black pepper', 'fresh cilantro'})",2
+0.005518210093307916,"frozenset({'black pepper', 'fresh ginger'})",2
+0.006421189926758303,"frozenset({'black pepper', 'fresh lemon juice'})",2
+0.008126818501053476,"frozenset({'black pepper', 'fresh mushrooms'})",2
+0.02688873281830039,"frozenset({'black pepper', 'fresh parsley'})",2
+0.009029798334503862,"frozenset({'fresh thyme', 'black pepper'})",2
+0.007023176482391893,"frozenset({'black pepper', 'frying'})",2
+0.025383766429216414,"frozenset({'black pepper', 'garlic'})",2
+0.04745660680244808,"frozenset({'black pepper', 'garlic powder'})",2
+0.008929467241898264,"frozenset({'black pepper', 'garlic salt'})",2
+0.005217216815491121,"frozenset({'green beans', 'black pepper'})",2
+0.005417879000702318,"frozenset({'green onion', 'black pepper'})",2
+0.01846092103943012,"frozenset({'black pepper', 'green onions'})",2
+0.08929467241898265,"frozenset({'black pepper', 'ground'})",2
+0.008728805056687067,"frozenset({'black pepper', 'half'})",2
+0.008829136149292666,"frozenset({'black pepper', 'heavy cream'})",2
+0.0066218521119695,"frozenset({'heavy whipping cream', 'black pepper'})",2
+0.006822514297180697,"frozenset({'hot pepper sauce', 'black pepper'})",2
+0.006120196648941507,"frozenset({'black pepper', 'hot sauce'})",2
+0.01856125213203572,"frozenset({'black pepper', 'inch'})",2
+0.00993277816795425,"frozenset({'black pepper', 'inch cubes'})",2
+0.01906290759506371,"frozenset({'inch pieces', 'black pepper'})",2
+0.04504866057991372,"frozenset({'black pepper', 'kosher salt'})",2
+0.010735426908799037,"frozenset({'black pepper', 'large egg'})",2
+0.015551319353867764,"frozenset({'black pepper', 'large eggs'})",2
+0.014046352964783786,"frozenset({'black pepper', 'large onion'})",2
+0.005217216815491121,"frozenset({'black pepper', 'leaf parsley'})",2
+0.008126818501053476,"frozenset({'black pepper', 'lean ground beef'})",2
+0.01183906892746062,"frozenset({'black pepper', 'lemon'})",2
+0.006421189926758303,"frozenset({'black pepper', 'medium'})",2
+0.011538075649643825,"frozenset({'black pepper', 'medium onion'})",2
+0.008427811778870272,"frozenset({'black pepper', 'mozzarella cheese'})",2
+0.005016554630279924,"frozenset({'black pepper', 'mushroom soup'})",2
+0.005819203371124712,"frozenset({'black pepper', 'mushrooms'})",2
+0.05618541185913514,"frozenset({'black pepper', 'onion'})",2
+0.007424500852814287,"frozenset({'black pepper', 'onions'})",2
+0.02889535467041236,"frozenset({'black pepper', 'package'})",2
+0.009732115982743051,"frozenset({'black pepper', 'paprika'})",2
+0.013544697501755795,"frozenset({'black pepper', 'parsley'})",2
+0.006019865556335909,"frozenset({'black pepper', 'pieces'})",2
+0.00923046051971506,"frozenset({'black pepper', 'potatoes'})",2
+0.04835958663589846,"frozenset({'black pepper', 'purpose flour'})",2
+0.009732115982743051,"frozenset({'black pepper', 'red bell pepper'})",2
+0.014146684057389385,"frozenset({'red onion', 'black pepper'})",2
+0.017959265576402126,"frozenset({'black pepper', 'red pepper flakes'})",2
+0.006421189926758303,"frozenset({'black pepper', 'red potatoes'})",2
+0.0066218521119695,"frozenset({'black pepper', 'red wine'})",2
+0.0066218521119695,"frozenset({'black pepper', 'red wine vinegar'})",2
+0.11237082371827029,"frozenset({'black pepper', 'salt'})",2
+0.005618541185913515,"frozenset({'seasoned salt', 'black pepper'})",2
+0.006722183204575098,"frozenset({'black pepper', 'skin'})",2
+0.01123708237182703,"frozenset({'black pepper', 'skinless'})",2
+0.007324169760208689,"frozenset({'black pepper', 'slices'})",2
+0.009531453797531855,"frozenset({'black pepper', 'slices bacon'})",2
+0.00993277816795425,"frozenset({'black pepper', 'small onion'})",2
+0.01846092103943012,"frozenset({'sour cream', 'black pepper'})",2
+0.012240393297883014,"frozenset({'black pepper', 'stalks celery'})",2
+0.006722183204575098,"frozenset({'black pepper', 'taste'})",2
+0.016855623557740545,"frozenset({'black pepper', 'thyme'})",2
+0.00852814287147587,"frozenset({'tomato', 'black pepper'})",2
+0.027791712651750778,"frozenset({'black pepper', 'tomatoes'})",2
+0.016855623557740545,"frozenset({'black pepper', 'unsalted butter'})",2
+0.01705628574295174,"frozenset({'black pepper', 'virgin olive oil'})",2
+0.0066218521119695,"frozenset({'black pepper', 'wedges'})",2
+0.005217216815491121,"frozenset({'black pepper', 'white onion'})",2
+0.013544697501755795,"frozenset({'black pepper', 'white sugar'})",2
+0.00782582522323668,"frozenset({'black pepper', 'white vinegar'})",2
+0.012039731112671818,"frozenset({'black pepper', 'white wine'})",2
+0.005518210093307916,"frozenset({'black pepper', 'whole chicken'})",2
+0.01575198153907896,"frozenset({'black pepper', 'yellow onion'})",2
+0.005217216815491121,"frozenset({'black pepper', 'zucchini'})",2
+0.005016554630279924,"frozenset({'bone', 'skin'})",2
+0.006922845389786295,"frozenset({'salt', 'boneless chicken breast halves'})",2
+0.016654961372529347,"frozenset({'skinless', 'boneless chicken breast halves'})",2
+0.005718872278519113,"frozenset({'skinless', 'boneless chicken breasts'})",2
+0.00722383866760309,"frozenset({'butter', 'brown sugar'})",2
+0.006922845389786295,"frozenset({'cloves', 'brown sugar'})",2
+0.006722183204575098,"frozenset({'cooking spray', 'brown sugar'})",2
+0.011337413464432627,"frozenset({'egg', 'brown sugar'})",2
+0.01705628574295174,"frozenset({'brown sugar', 'eggs'})",2
+0.005116885722885522,"frozenset({'garlic', 'brown sugar'})",2
+0.008929467241898264,"frozenset({'garlic powder', 'brown sugar'})",2
+0.006220527741547106,"frozenset({'inch', 'brown sugar'})",2
+0.00983244707534865,"frozenset({'brown sugar', 'kosher salt'})",2
+0.007725494130631083,"frozenset({'large egg', 'brown sugar'})",2
+0.011337413464432627,"frozenset({'brown sugar', 'large eggs'})",2
+0.008227149593659075,"frozenset({'oats', 'brown sugar'})",2
+0.00792615631584228,"frozenset({'onion', 'brown sugar'})",2
+0.006320858834152704,"frozenset({'pecans', 'brown sugar'})",2
+0.01926356978027491,"frozenset({'powder', 'brown sugar'})",2
+0.04534965385773051,"frozenset({'brown sugar', 'purpose flour'})",2
+0.006120196648941507,"frozenset({'room temperature', 'brown sugar'})",2
+0.006521521019363901,"frozenset({'salt', 'brown sugar'})",2
+0.005417879000702318,"frozenset({'soda', 'brown sugar'})",2
+0.006822514297180697,"frozenset({'sugar', 'brown sugar'})",2
+0.016755292465134946,"frozenset({'brown sugar', 'unsalted butter'})",2
+0.00852814287147587,"frozenset({'walnuts', 'brown sugar'})",2
+0.00852814287147587,"frozenset({'white sugar', 'brown sugar'})",2
+0.012842379853516606,"frozenset({'butter', 'purpose flour'})",2
+0.005317547908096719,"frozenset({'butter', 'salt'})",2
+0.006120196648941507,"frozenset({'tomatoes', 'cans'})",2
+0.005317547908096719,"frozenset({'celery', 'carrots'})",2
+0.006822514297180697,"frozenset({'cloves', 'carrots'})",2
+0.006019865556335909,"frozenset({'ground', 'carrots'})",2
+0.010635095816193438,"frozenset({'carrots', 'onion'})",2
+0.006722183204575098,"frozenset({'carrots', 'purpose flour'})",2
+0.010033109260559848,"frozenset({'salt', 'carrots'})",2
+0.007023176482391893,"frozenset({'stalks celery', 'carrots'})",2
+0.010033109260559848,"frozenset({'cayenne pepper', 'kosher salt'})",2
+0.010334102538376643,"frozenset({'salt', 'cayenne pepper'})",2
+0.008327480686264674,"frozenset({'celery', 'onion'})",2
+0.007424500852814287,"frozenset({'chicken soup', 'cream'})",2
+0.005819203371124712,"frozenset({'fresh parsley', 'clove garlic'})",2
+0.00722383866760309,"frozenset({'ground', 'clove garlic'})",2
+0.009531453797531855,"frozenset({'clove garlic', 'onion'})",2
+0.005217216815491121,"frozenset({'clove garlic', 'purpose flour'})",2
+0.014046352964783786,"frozenset({'salt', 'clove garlic'})",2
+0.005317547908096719,"frozenset({'clove garlic', 'tomatoes'})",2
+0.007524831945419886,"frozenset({'cloves', 'fresh cilantro'})",2
+0.00722383866760309,"frozenset({'cloves', 'fresh parsley'})",2
+0.00722383866760309,"frozenset({'cloves', 'green onions'})",2
+0.014146684057389385,"frozenset({'cloves', 'ground'})",2
+0.006220527741547106,"frozenset({'cloves', 'inch'})",2
+0.006320858834152704,"frozenset({'cloves', 'inch pieces'})",2
+0.012340724390488613,"frozenset({'cloves', 'kosher salt'})",2
+0.00792615631584228,"frozenset({'cloves', 'large onion'})",2
+0.006521521019363901,"frozenset({'cloves', 'medium onion'})",2
+0.01856125213203572,"frozenset({'cloves', 'onion'})",2
+0.006722183204575098,"frozenset({'cloves', 'package'})",2
+0.006722183204575098,"frozenset({'cloves', 'pepper'})",2
+0.00782582522323668,"frozenset({'cloves', 'purpose flour'})",2
+0.005518210093307916,"frozenset({'cloves', 'red bell pepper'})",2
+0.01123708237182703,"frozenset({'cloves', 'red pepper flakes'})",2
+0.03019965887428514,"frozenset({'cloves', 'salt'})",2
+0.005618541185913515,"frozenset({'cloves', 'stalks celery'})",2
+0.005016554630279924,"frozenset({'cloves', 'taste'})",2
+0.00591953446373031,"frozenset({'cloves', 'thyme'})",2
+0.015049663890839771,"frozenset({'cloves', 'tomatoes'})",2
+0.005819203371124712,"frozenset({'cloves', 'virgin olive oil'})",2
+0.005819203371124712,"frozenset({'cloves', 'white wine'})",2
+0.007324169760208689,"frozenset({'cloves', 'yellow onion'})",2
+0.005819203371124712,"frozenset({'cold water', 'purpose flour'})",2
+0.005417879000702318,"frozenset({'cooking spray', 'eggs'})",2
+0.006120196648941507,"frozenset({'cooking spray', 'large eggs'})",2
+0.005317547908096719,"frozenset({'onion', 'cooking spray'})",2
+0.005417879000702318,"frozenset({'cooking spray', 'package'})",2
+0.010936089094010233,"frozenset({'cooking spray', 'purpose flour'})",2
+0.005217216815491121,"frozenset({'salt', 'cooking spray'})",2
+0.009732115982743051,"frozenset({'mushroom soup', 'cream'})",2
+0.006120196648941507,"frozenset({'package', 'cream'})",2
+0.005317547908096719,"frozenset({'salt', 'cream'})",2
+0.006120196648941507,"frozenset({'sour cream', 'cream'})",2
+0.010233771445771044,"frozenset({'dry yeast', 'purpose flour'})",2
+0.00993277816795425,"frozenset({'dry yeast', 'warm water'})",2
+0.006421189926758303,"frozenset({'dry yeast', 'white sugar'})",2
+0.006421189926758303,"frozenset({'egg', 'onion'})",2
+0.014247015149994983,"frozenset({'powder', 'egg'})",2
+0.031202969800341127,"frozenset({'egg', 'purpose flour'})",2
+0.007123507574997492,"frozenset({'egg', 'salt'})",2
+0.006220527741547106,"frozenset({'white sugar', 'egg'})",2
+0.006220527741547106,"frozenset({'ground', 'eggs'})",2
+0.006320858834152704,"frozenset({'inch', 'eggs'})",2
+0.008427811778870272,"frozenset({'onion', 'eggs'})",2
+0.00782582522323668,"frozenset({'eggs', 'package'})",2
+0.005819203371124712,"frozenset({'pecans', 'eggs'})",2
+0.005016554630279924,"frozenset({'pepper', 'eggs'})",2
+0.0262867462626668,"frozenset({'powder', 'eggs'})",2
+0.05508176984047356,"frozenset({'eggs', 'purpose flour'})",2
+0.006922845389786295,"frozenset({'room temperature', 'eggs'})",2
+0.014347346242600582,"frozenset({'salt', 'eggs'})",2
+0.006019865556335909,"frozenset({'soda', 'eggs'})",2
+0.008227149593659075,"frozenset({'sour cream', 'eggs'})",2
+0.013444366409150196,"frozenset({'sugar', 'eggs'})",2
+0.007324169760208689,"frozenset({'eggs', 'unsalted butter'})",2
+0.00993277816795425,"frozenset({'walnuts', 'eggs'})",2
+0.018059596669007725,"frozenset({'white sugar', 'eggs'})",2
+0.006421189926758303,"frozenset({'inch', 'flour tortillas'})",2
+0.006722183204575098,"frozenset({'fresh basil', 'salt'})",2
+0.006421189926758303,"frozenset({'salt', 'fresh cilantro'})",2
+0.007725494130631083,"frozenset({'fresh parsley', 'ground'})",2
+0.005417879000702318,"frozenset({'fresh parsley', 'kosher salt'})",2
+0.008327480686264674,"frozenset({'fresh parsley', 'onion'})",2
+0.006922845389786295,"frozenset({'fresh parsley', 'purpose flour'})",2
+0.014247015149994983,"frozenset({'fresh parsley', 'salt'})",2
+0.00852814287147587,"frozenset({'frying', 'purpose flour'})",2
+0.006922845389786295,"frozenset({'ground', 'garlic'})",2
+0.00923046051971506,"frozenset({'garlic', 'onion'})",2
+0.005217216815491121,"frozenset({'red pepper flakes', 'garlic'})",2
+0.011538075649643825,"frozenset({'salt', 'garlic'})",2
+0.005618541185913515,"frozenset({'garlic', 'tomatoes'})",2
+0.007725494130631083,"frozenset({'ground', 'garlic powder'})",2
+0.011638406742249424,"frozenset({'garlic powder', 'kosher salt'})",2
+0.010735426908799037,"frozenset({'onion', 'garlic powder'})",2
+0.006521521019363901,"frozenset({'garlic powder', 'package'})",2
+0.005016554630279924,"frozenset({'parsley', 'garlic powder'})",2
+0.012942710946122203,"frozenset({'garlic powder', 'purpose flour'})",2
+0.016554630279923748,"frozenset({'salt', 'garlic powder'})",2
+0.005217216815491121,"frozenset({'sour cream', 'garlic powder'})",2
+0.006220527741547106,"frozenset({'garlic powder', 'tomatoes'})",2
+0.005317547908096719,"frozenset({'white rice', 'grain'})",2
+0.007023176482391893,"frozenset({'green onions', 'kosher salt'})",2
+0.009531453797531855,"frozenset({'salt', 'green onions'})",2
+0.005016554630279924,"frozenset({'sour cream', 'green onions'})",2
+0.014849001705628573,"frozenset({'ground', 'onion'})",2
+0.009330791612320657,"frozenset({'ground', 'package'})",2
+0.013344035316544597,"frozenset({'ground', 'purpose flour'})",2
+0.07504765726898766,"frozenset({'ground', 'salt'})",2
+0.007625163038025484,"frozenset({'ground', 'tomatoes'})",2
+0.005016554630279924,"frozenset({'ground', 'virgin olive oil'})",2
+0.005016554630279924,"frozenset({'purpose flour', 'half'})",2
+0.005217216815491121,"frozenset({'salt', 'half'})",2
+0.007725494130631083,"frozenset({'heavy cream', 'purpose flour'})",2
+0.007324169760208689,"frozenset({'salt', 'heavy cream'})",2
+0.006320858834152704,"frozenset({'heavy cream', 'unsalted butter'})",2
+0.005819203371124712,"frozenset({'heavy whipping cream', 'purpose flour'})",2
+0.005116885722885522,"frozenset({'inch', 'kosher salt'})",2
+0.005819203371124712,"frozenset({'inch', 'large eggs'})",2
+0.007424500852814287,"frozenset({'inch', 'onion'})",2
+0.005618541185913515,"frozenset({'inch', 'piece'})",2
+0.009631784890137454,"frozenset({'inch', 'purpose flour'})",2
+0.01053476472358784,"frozenset({'inch', 'salt'})",2
+0.005116885722885522,"frozenset({'white sugar', 'inch'})",2
+0.005718872278519113,"frozenset({'salt', 'inch cubes'})",2
+0.006019865556335909,"frozenset({'inch pieces', 'onion'})",2
+0.005718872278519113,"frozenset({'inch pieces', 'purpose flour'})",2
+0.008327480686264674,"frozenset({'inch pieces', 'salt'})",2
+0.007424500852814287,"frozenset({'large egg', 'kosher salt'})",2
+0.009130129427109461,"frozenset({'large eggs', 'kosher salt'})",2
+0.005718872278519113,"frozenset({'onion', 'kosher salt'})",2
+0.005317547908096719,"frozenset({'package', 'kosher salt'})",2
+0.005317547908096719,"frozenset({'paprika', 'kosher salt'})",2
+0.01896257650245811,"frozenset({'purpose flour', 'kosher salt'})",2
+0.005016554630279924,"frozenset({'room temperature', 'kosher salt'})",2
+0.005116885722885522,"frozenset({'salt', 'kosher salt'})",2
+0.01635396809471255,"frozenset({'unsalted butter', 'kosher salt'})",2
+0.005819203371124712,"frozenset({'virgin olive oil', 'kosher salt'})",2
+0.00591953446373031,"frozenset({'white sugar', 'kosher salt'})",2
+0.008427811778870272,"frozenset({'yellow onion', 'kosher salt'})",2
+0.008628473964081469,"frozenset({'powder', 'large egg'})",2
+0.02036721179893649,"frozenset({'large egg', 'purpose flour'})",2
+0.010033109260559848,"frozenset({'large egg', 'unsalted butter'})",2
+0.016052974816895757,"frozenset({'powder', 'large eggs'})",2
+0.03491522022674827,"frozenset({'purpose flour', 'large eggs'})",2
+0.008628473964081469,"frozenset({'room temperature', 'large eggs'})",2
+0.007324169760208689,"frozenset({'salt', 'large eggs'})",2
+0.005016554630279924,"frozenset({'sour cream', 'large eggs'})",2
+0.007725494130631083,"frozenset({'sugar', 'large eggs'})",2
+0.016554630279923748,"frozenset({'unsalted butter', 'large eggs'})",2
+0.010936089094010233,"frozenset({'white sugar', 'large eggs'})",2
+0.008829136149292666,"frozenset({'large onion', 'salt'})",2
+0.005016554630279924,"frozenset({'large onion', 'tomatoes'})",2
+0.006822514297180697,"frozenset({'onion', 'lean ground beef'})",2
+0.005116885722885522,"frozenset({'lean ground beef', 'tomatoes'})",2
+0.006421189926758303,"frozenset({'lemon', 'salt'})",2
+0.007725494130631083,"frozenset({'salt', 'medium onion'})",2
+0.006521521019363901,"frozenset({'package', 'mozzarella cheese'})",2
+0.005718872278519113,"frozenset({'salt', 'mozzarella cheese'})",2
+0.007725494130631083,"frozenset({'oats', 'purpose flour'})",2
+0.011638406742249424,"frozenset({'onion', 'package'})",2
+0.008227149593659075,"frozenset({'pepper', 'onion'})",2
+0.005718872278519113,"frozenset({'onion', 'potatoes'})",2
+0.01585231263168456,"frozenset({'onion', 'purpose flour'})",2
+0.00591953446373031,"frozenset({'red pepper flakes', 'onion'})",2
+0.029296679040834755,"frozenset({'salt', 'onion'})",2
+0.00782582522323668,"frozenset({'sour cream', 'onion'})",2
+0.00722383866760309,"frozenset({'stalks celery', 'onion'})",2
+0.006320858834152704,"frozenset({'tomato', 'onion'})",2
+0.016654961372529347,"frozenset({'onion', 'tomatoes'})",2
+0.005116885722885522,"frozenset({'white sugar', 'onion'})",2
+0.005016554630279924,"frozenset({'salt', 'onions'})",2
+0.010434433630982242,"frozenset({'purpose flour', 'package'})",2
+0.014849001705628573,"frozenset({'salt', 'package'})",2
+0.008026487408447879,"frozenset({'sour cream', 'package'})",2
+0.007023176482391893,"frozenset({'tomatoes', 'package'})",2
+0.006722183204575098,"frozenset({'package cream cheese', 'purpose flour'})",2
+0.005819203371124712,"frozenset({'sugar', 'package cream cheese'})",2
+0.006320858834152704,"frozenset({'salt', 'parsley'})",2
+0.00852814287147587,"frozenset({'pecans', 'purpose flour'})",2
+0.007625163038025484,"frozenset({'pepper', 'purpose flour'})",2
+0.04484799839470252,"frozenset({'salt', 'pepper'})",2
+0.005016554630279924,"frozenset({'pepper', 'tomatoes'})",2
+0.005016554630279924,"frozenset({'pieces', 'purpose flour'})",2
+0.0066218521119695,"frozenset({'salt', 'potatoes'})",2
+0.06762315641617338,"frozenset({'powder', 'purpose flour'})",2
+0.00983244707534865,"frozenset({'powder', 'room temperature'})",2
+0.007625163038025484,"frozenset({'powder', 'soda'})",2
+0.005317547908096719,"frozenset({'sour cream', 'powder'})",2
+0.011437744557038226,"frozenset({'sugar', 'powder'})",2
+0.018159927761613324,"frozenset({'powder', 'unsalted butter'})",2
+0.00923046051971506,"frozenset({'powder', 'walnuts'})",2
+0.016955954650346144,"frozenset({'powder', 'white sugar'})",2
+0.005819203371124712,"frozenset({'powdered sugar', 'purpose flour'})",2
+0.005217216815491121,"frozenset({'powdered sugar', 'unsalted butter'})",2
+0.01705628574295174,"frozenset({'room temperature', 'purpose flour'})",2
+0.02498244205879402,"frozenset({'salt', 'purpose flour'})",2
+0.014347346242600582,"frozenset({'soda', 'purpose flour'})",2
+0.014648339520417377,"frozenset({'sour cream', 'purpose flour'})",2
+0.022875489114076452,"frozenset({'sugar', 'purpose flour'})",2
+0.041236079060900974,"frozenset({'unsalted butter', 'purpose flour'})",2
+0.01635396809471255,"frozenset({'walnuts', 'purpose flour'})",2
+0.008427811778870272,"frozenset({'warm water', 'purpose flour'})",2
+0.039731112671817,"frozenset({'white sugar', 'purpose flour'})",2
+0.008126818501053476,"frozenset({'whole milk', 'purpose flour'})",2
+0.006922845389786295,"frozenset({'salt', 'red bell pepper'})",2
+0.007023176482391893,"frozenset({'red onion', 'salt'})",2
+0.01053476472358784,"frozenset({'red pepper flakes', 'salt'})",2
+0.005317547908096719,"frozenset({'sugar', 'room temperature'})",2
+0.012641717668305408,"frozenset({'room temperature', 'unsalted butter'})",2
+0.005016554630279924,"frozenset({'white sugar', 'room temperature'})",2
+0.0066218521119695,"frozenset({'skinless', 'salt'})",2
+0.005016554630279924,"frozenset({'salt', 'slices'})",2
+0.005317547908096719,"frozenset({'salt', 'slices bacon'})",2
+0.008126818501053476,"frozenset({'small onion', 'salt'})",2
+0.008829136149292666,"frozenset({'sour cream', 'salt'})",2
+0.006822514297180697,"frozenset({'salt', 'stalks celery'})",2
+0.01916323868766931,"frozenset({'salt', 'taste'})",2
+0.007324169760208689,"frozenset({'salt', 'thyme'})",2
+0.005016554630279924,"frozenset({'tomato', 'salt'})",2
+0.015450988261262165,"frozenset({'salt', 'tomatoes'})",2
+0.006220527741547106,"frozenset({'salt', 'unsalted butter'})",2
+0.010233771445771044,"frozenset({'salt', 'virgin olive oil'})",2
+0.007524831945419886,"frozenset({'white sugar', 'salt'})",2
+0.00792615631584228,"frozenset({'salt', 'white wine'})",2
+0.006922845389786295,"frozenset({'salt', 'yellow onion'})",2
+0.005718872278519113,"frozenset({'soda', 'unsalted butter'})",2
+0.005116885722885522,"frozenset({'soda', 'white sugar'})",2
+0.005819203371124712,"frozenset({'sour cream', 'unsalted butter'})",2
+0.008829136149292666,"frozenset({'sugar', 'unsalted butter'})",2
+0.006120196648941507,"frozenset({'sugar', 'white sugar'})",2
+0.010635095816193438,"frozenset({'white sugar', 'unsalted butter'})",2
+0.005317547908096719,"frozenset({'whole milk', 'unsalted butter'})",2
